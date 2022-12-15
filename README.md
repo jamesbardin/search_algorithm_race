@@ -1,9 +1,1 @@
-
-## ps6
-
-
-
-This repository contains the ps6 repository for Harvard's
-CS 51 class, Abstraction and Design in Computation.
-
-For more information, see [https://cs51.io](https://cs51.io). 
+Implementation of a program for solving search problems, a core problem in the field of artificial intelligence. In the course of working on this assignment, you’ll implement a more efficient queue module using two stacks; create a higher-order functor that abstracts away details of search algorithms and puzzle implementations; and compare, visualize, and analyze the performance of various search algorithms on different puzzles.
